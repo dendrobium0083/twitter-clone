@@ -1,0 +1,33 @@
+# バイナリ・ビルド成果物
+bin/
+obj/
+
+# Visual Studio / VSCode 関連
+.vs/
+.vscode/
+
+# ユーザ設定
+*.user
+*.suo
+
+# 一時ファイルやログ
+*.log
+*.tmp
+
+# テスト出力やカバレッジ
+TestResults/
+coverage/
+
+# OS別一時ファイル
+.DS_Store
+Thumbs.db
+
+# 環境ファイル
+.env
+*.sqlite
+
+# アップロード系ファイル（動画、画像など）
+*.mp4
+*.jpg
+*.png
+uploads/
